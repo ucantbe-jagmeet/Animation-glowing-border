@@ -5,6 +5,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+h1{
+    text-align: center;
+}
 body{
     display: flex;
     justify-content: center;
@@ -61,7 +64,7 @@ body{
     0%{
         background: linear-gradient(0deg,#2E5EAA,#FFEEDD,#EF3E36);
     }
-    35%
+    25%
     {
         background: linear-gradient(90deg,#2E5EAA,#FFEEDD,#EF3E36);
     }
