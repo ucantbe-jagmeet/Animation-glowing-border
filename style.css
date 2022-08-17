@@ -34,7 +34,7 @@ body{
     bottom: -1px;
     background: #fff;
     z-index:-1;
-    animation: loop 5s smooth infinite;
+    animation: loop 5s linear infinite;
 }
 .box:after
 {
